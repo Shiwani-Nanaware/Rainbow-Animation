@@ -1,4 +1,4 @@
-# Rainbow-Animation
+# Rainbow-Simulation
 This project creates an animated rainbow display, showing a sequence of colored arcs moving along a path. Clouds are displayed in the background to add visual depth, and the background color is set to a very light blue, resembling a clear sky.
 
 # Setup :- 
